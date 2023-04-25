@@ -28,7 +28,9 @@ header {
   align-items: center;
   padding: 30px;
   justify-content: space-evenly;
-  background-image: linear-gradient(to bottom, #1C243A, #161C28);
+  /* background-image: linear-gradient(to bottom, #1C243A, #161C28); */
+
+  background-image: linear-gradient(to bottom, #06334b, #112731);
   position: fixed;
   top: 0;
   left: 0;
@@ -36,7 +38,7 @@ header {
 }
 
 .logo {
-  max-width: 120px;
+  max-width: 130px;
 }
 
 .logo img {
