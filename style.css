@@ -16,7 +16,10 @@ body {
   background-position: center center;
   height: 100%;
   background-attachment: fixed;
-  background-image: linear-gradient(to top, #161C28, #587C96);
+  /* background-image: linear-gradient(to top, #161C28, #587C96); */
+
+
+  background-image: linear-gradient(to bottom, #74839b, #06334b);
 }
 
 body h2 {
@@ -28,8 +31,6 @@ header {
   align-items: center;
   padding: 30px;
   justify-content: space-evenly;
-  /* background-image: linear-gradient(to bottom, #1C243A, #161C28); */
-
   background-image: linear-gradient(to bottom, #06334b, #112731);
   position: fixed;
   top: 0;
